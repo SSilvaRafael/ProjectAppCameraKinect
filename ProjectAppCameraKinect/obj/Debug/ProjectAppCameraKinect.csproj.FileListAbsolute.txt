@@ -1,0 +1,26 @@
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\bin\Debug\ProjectAppCameraKinect.exe.config
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\bin\Debug\ProjectAppCameraKinect.exe
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\bin\Debug\ProjectAppCameraKinect.pdb
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.csprojResolveAssemblyReference.cache
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\MainWindow.baml
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\MainWindow.g.cs
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\App.g.cs
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect_MarkupCompile.cache
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.g.resources
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.Properties.Resources.resources
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.csproj.GenerateResource.Cache
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.exe
+c:\users\rafae\documents\visual studio 2012\Projects\ProjectAppCameraKinect\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.pdb
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\bin\Debug\ProjectAppCameraKinect.exe.config
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.exe
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.pdb
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\bin\Debug\ProjectAppCameraKinect.exe
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\bin\Debug\ProjectAppCameraKinect.pdb
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.csprojResolveAssemblyReference.cache
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\MainWindow.baml
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\MainWindow.g.cs
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\App.g.cs
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect_MarkupCompile.cache
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.g.resources
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.Properties.Resources.resources
+C:\Users\rafae\Documents\Visual Studio 2012\Projects\ProjectAppCameraKinect 1.0\ProjectAppCameraKinect\obj\Debug\ProjectAppCameraKinect.csproj.GenerateResource.Cache
